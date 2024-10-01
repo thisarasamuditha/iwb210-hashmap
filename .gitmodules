@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/lakshan-2002/project
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/pandorian7/bellerina-frontend
