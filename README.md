@@ -1,7 +1,7 @@
 # Clone with submodules
 
 ```
-git clone --recuesive-submodules https://github.com/thisarasamuditha/bal
+git clone --recurse-submodules https://github.com/thisarasamuditha/bal
 ```
 
 # Start App
@@ -16,4 +16,18 @@ docker compose up
 
 ```
 docker compose down
+```
+
+## On slow connections
+
+> build backend seperately
+
+```
+docker build backend
+```
+
+then run;
+
+```
+docker compose up
 ```
