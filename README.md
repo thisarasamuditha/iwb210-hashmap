@@ -6,11 +6,17 @@ git clone --recurse-submodules https://github.com/thisarasamuditha/iwb210-hashma
 
 # Start App
 
+> [Docker](https://www.docker.com/) is required to run this applicaion.
+
 ```
 docker compose up --build
 ```
+> When composing, after the images are built it might take 1-2 minutes for the containers to be fully awake.
 
-> visit localhost:4000
+> visit localhost:4000 to access the web app
+
+> webapp is not mobile responsive
+
 
 # Stop App
 
