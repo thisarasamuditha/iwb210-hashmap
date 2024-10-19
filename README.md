@@ -1,7 +1,7 @@
 # Clone with submodules
 
 ```
-git clone --recurse-submodules https://github.com/thisarasamuditha/bal
+git clone --recurse-submodules https://github.com/thisarasamuditha/iwb210-hashmap
 ```
 
 # Start App
