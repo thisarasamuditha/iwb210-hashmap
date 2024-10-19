@@ -9,6 +9,8 @@ git clone --recurse-submodules https://github.com/thisarasamuditha/iwb210-hashma
 > [Docker](https://www.docker.com/) is required to run this applicaion.
 
 ```
+cd iwb210-hashmap
+
 docker compose up --build
 ```
 > When composing, after the images are built it might take 1-2 minutes for the containers to be fully awake.
