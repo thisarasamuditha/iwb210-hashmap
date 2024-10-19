@@ -7,7 +7,7 @@ git clone --recurse-submodules https://github.com/thisarasamuditha/iwb210-hashma
 # Start App
 
 ```
-docker compose up
+docker compose up --build
 ```
 
 > visit localhost:4000
