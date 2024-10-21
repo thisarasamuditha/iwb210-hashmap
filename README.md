@@ -8,6 +8,8 @@ git clone --recurse-submodules https://github.com/thisarasamuditha/iwb210-hashma
 
 > [Docker](https://www.docker.com/) is required to run this applicaion.
 
+> Use [Google Cloud Shell](https://shell.cloud.google.com?show=terminal) (docker pre-installed) to run this on cloud
+
 ```
 cd iwb210-hashmap
 
