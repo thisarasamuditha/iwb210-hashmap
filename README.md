@@ -27,7 +27,7 @@ docker compose up --build
 ```
 docker compose down
 ```
-
+hell
 ## On slow connections
 
 > build backend seperately
